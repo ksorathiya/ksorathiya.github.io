@@ -32,20 +32,20 @@ padding: 4em 0em;
 .timeline .experience-info h5 {
     margin-top: 0;
     margin-bottom: 0.333em;
-    font-size: 1.1em;
-    color:#2C2C2C;
+    font-size: 1.2em;
+    color:#fff;
     font-weight: 600;
 }
 
 .timeline .experience-info .role {
     font-size: 0.9em;
-    color:#323232;
+    color:#fff;
 }
 
 .timeline .experience-info p {
     font-size: 0.9em;
-    color:#A3A3A3;
-    font-weight: 600;
+    color:#000;
+    font-weight: 100;
     line-height: 1.7em;
 }
 
@@ -68,7 +68,7 @@ padding: 4em 0em;
 .timeline .experience .circle {
     position: absolute;
     top: 1em;
-    left: -0.86em;
+    left: -0.7em;
     display: block;
     width: 1.222em;
     height: 1.222em;
